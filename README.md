@@ -1,5 +1,7 @@
 # 03-planner-app
 
+You can check the app here [Click Me](https://planner-app-gul-gunel.vercel.app/)
+
 ## Project setup
 ```
 npm install
